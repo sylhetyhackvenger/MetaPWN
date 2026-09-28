@@ -105,7 +105,9 @@ Runtime pipeline
 Input → Classify → Route → Execute → Collect → Aggregate → Export
 ```
 
----
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 Pillar Reference
 
