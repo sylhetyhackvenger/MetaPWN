@@ -1,4 +1,7 @@
 # MetaPWN |    Adversary Emulation & Metadata Intelligence Platform
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-ff2d55?style=flat-square&labelColor=0a0a0a" alt="version">
